@@ -1,4 +1,4 @@
-# Heeellooo! I'm polarbear!
+#              Heeellooo! I'm polarbear!
 About me:
 
 - 🌱 Currently developing Accesser
@@ -16,5 +16,5 @@ About me:
 
 
 
-# Hi, I'm Katherine! 👋 Who's Katherine WTF LOL
+Who's Katherine WTF LOL
 
