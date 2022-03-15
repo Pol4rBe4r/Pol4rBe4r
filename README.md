@@ -1,4 +1,4 @@
-#              Heeellooo! I'm polarbear!
+#              Heeellooo! I'm bearpolar!
 About me:
 
 - 🌱 Currently developing Accesser
