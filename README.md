@@ -1,7 +1,7 @@
 #              Heeellooo! I'm bearpolar!
 About me:
 
-- 🌱 Currently developing Accesser
+- 🌱 Currently developing special things...
 - 🍁 Trying to be the best
 - 🎈 Searching you...
 
